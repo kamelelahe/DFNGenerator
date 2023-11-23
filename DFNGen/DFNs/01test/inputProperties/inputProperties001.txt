@@ -1,0 +1,61 @@
+domainLengthX: 1000
+domainLengthY: 1000
+fractureSet 1 : {
+    "I": 0.05,
+    "fractureLengthPDF": "Negative power-law",
+    "fractureLengthPDFParams": {
+        "alpha": 2.5,
+        "Lmin": 2,
+        "Lmax": 1000.0
+    },
+    "spatialDisturbutionPDF": "Uniform",
+    "spatialDisturbutionPDFParams": {
+        "Lmin": 2,
+        "Lmax": 1000
+    },
+    "orientationDisturbutonPDF": "Von-Mises",
+    "orientationDisturbutonPDFParams": {
+        "kappa": 30,
+        "loc": 0.0
+    }
+}
+fractureSet 1 : {
+    "I": 0.05,
+    "fractureLengthPDF": "Negative power-law",
+    "fractureLengthPDFParams": {
+        "alpha": 2.5,
+        "Lmin": 2,
+        "Lmax": 1154.7005383792516
+    },
+    "spatialDisturbutionPDF": "Log-Normal",
+    "spatialDisturbutionPDFParams": {
+        "mu": 5.521460917862246,
+        "sigma": 0.5,
+        "Lmax": 1000
+    },
+    "orientationDisturbutonPDF": "Von-Mises",
+    "orientationDisturbutonPDFParams": {
+        "kappa": 28,
+        "loc": 1.0471975511965976
+    }
+}
+fractureSet 1 : {
+    "I": 0.01,
+    "fractureLengthPDF": "Negative power-law",
+    "fractureLengthPDFParams": {
+        "alpha": 3,
+        "Lmin": 4,
+        "Lmax": 1154.7005383792514
+    },
+    "spatialDisturbutionPDF": "Uniform",
+    "spatialDisturbutionPDFParams": {
+        "Lmin": 2,
+        "Lmax": 1000
+    },
+    "orientationDisturbutonPDF": "Von-Mises",
+    "orientationDisturbutonPDFParams": {
+        "kappa": 25,
+        "loc": 0.5235987755982988
+    }
+}
+stressAzimuth: None

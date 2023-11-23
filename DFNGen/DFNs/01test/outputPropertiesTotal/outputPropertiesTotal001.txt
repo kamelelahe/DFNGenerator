@@ -1,0 +1,11 @@
+Total number of fractures: 9502
+Total intensity: 0.110
+Minimum fracture length: 4.001
+Maximum fracture length: 612.880
+Average fracture length: 11.597
+Average aperture: 3.052e-04
+Maximum aperture: 2.476e-03
+Minimum aperture: 2.000e-04
+connectivity= 2.528e-03
+wellLocation= (500.0, 500.0)
+minDistanceFromWell= 2.5242481175109153

@@ -1,0 +1,27 @@
+Properties for set1:
+intensity : 5.001e-02
+minLength : 4.001
+maxLength : 468.864
+avgLength : 10.736
+minAperture : 2.000e-04
+maxAperture : 2.165e-03
+avgAperture : 2.968e-04
+
+Properties for set2:
+intensity : 5.016e-02
+minLength : 4.002
+maxLength : 612.880
+avgLength : 11.094
+minAperture : 2.000e-04
+maxAperture : 2.476e-03
+avgAperture : 2.977e-04
+
+Properties for set3:
+intensity : 1.003e-02
+minLength : 16.034
+maxLength : 335.030
+avgLength : 31.057
+minAperture : 4.004e-04
+maxAperture : 1.830e-03
+avgAperture : 5.308e-04
+
